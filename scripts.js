@@ -8,5 +8,5 @@ function change_src() {
 
 window.onload = function () {
     setInterval(change_src, 10000);
-    document.cookie = 'key=stegozavr'
+    document.cookie = 'password=Sasha{$teg4n0z4vR}'
 };

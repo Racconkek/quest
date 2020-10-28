@@ -7,5 +7,12 @@ html, body {
 
 .content {
     overflow: hidden;
-    margin: 50px;
+}
+
+
+.content__header {
+    font-size: 40px;
+    font-family: "Comic Sans MS", serif;
+    display: flex;
+    justify-content: center;
 }
