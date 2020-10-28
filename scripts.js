@@ -1,6 +1,6 @@
 function change_src() {
     if (document.getElementById('photo').src.includes('cookie.jpg')) {
-        document.getElementById('photo').src = 'sdnem.png'
+        document.getElementById('photo').src = 'steged.jpg'
     } else {
         document.getElementById('photo').src = 'cookie.jpg'
     }
@@ -8,5 +8,5 @@ function change_src() {
 
 window.onload = function () {
     setInterval(change_src, 10000);
-    document.cookie = 'password=Sasha{$teg4n0z4vR}'
+    document.cookie = 'password=steg4n0z4vR'
 };
